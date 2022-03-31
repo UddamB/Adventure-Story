@@ -1,8 +1,10 @@
+/**
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
+ * @version     1.1
+ * @since       1
+ */
     package com.company;
-    /*AdventureStory.java
-    *May 4, 2021
-    *ICS3U1 Uddam Bhathal
-     THE story of an ambitious warrior who's legacy lives on today - program is based on user's decisions and outcomes - each decision leads to another */
+     //THE story of an ambitious warrior who's legacy lives on today - program is based on user's decisions and outcomes - each decision leads to another 
 
     import java.util.Scanner; //importing Scanner to use for user input
     public class Main {
